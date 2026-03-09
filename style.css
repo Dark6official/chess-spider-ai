@@ -1,0 +1,10 @@
+body{
+  text-align:center;
+  font-family:Arial;
+  background:#111;
+  color:white;
+}
+
+#board{
+  margin:auto;
+}
